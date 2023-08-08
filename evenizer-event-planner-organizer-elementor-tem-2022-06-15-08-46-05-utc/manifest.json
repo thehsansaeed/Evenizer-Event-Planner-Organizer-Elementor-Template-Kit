@@ -1,0 +1,1391 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Evenizer \u2013 Event Planner & Organizer Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/single-blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact Us",
+            "screenshot": "screenshots\/metform-contact-us.jpg",
+            "source": "templates\/metform-contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/metform-contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.4",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.11.3",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "new-year-party-e1630316139754.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/new-year-party-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 280741,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6PF4Y6N"
+        },
+        {
+            "filename": "people-partying-e1630316179197.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/people-partying-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 90427,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7LA7UQJ"
+        },
+        {
+            "filename": "young-couple-in-a-wedding-ceremony-at-the-beach-e1630316228823.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/young-couple-in-a-wedding-ceremony-at-the-beach-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 295334,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KDWNA85"
+        },
+        {
+            "filename": "people-partying-22.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/people-partying-22-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 320615,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSJ6YN3"
+        },
+        {
+            "filename": "wedding-ring-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/wedding-ring-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 43293,
+            "dimensions": [
+                515,
+                515
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icon-BTRTDKU"
+        },
+        {
+            "filename": "010-cake.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/010-cake.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 26485,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icons-2JM9EYZ"
+        },
+        {
+            "filename": "004-champagne.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/004-champagne.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29266,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icons-2JM9EYZ"
+        },
+        {
+            "filename": "business-people-party-celebration-success-concept-e1630316448772.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/business-people-party-celebration-success-concept-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 323229,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XGXN6PU"
+        },
+        {
+            "filename": "007-confetti.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/007-confetti.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 30901,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icons-2JM9EYZ"
+        },
+        {
+            "filename": "012-photo-camera.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/012-photo-camera.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 30282,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icons-2JM9EYZ"
+        },
+        {
+            "filename": "031-invitation.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/031-invitation.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 21313,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icons-2JM9EYZ"
+        },
+        {
+            "filename": "028-guitar.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/028-guitar.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 36156,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icons-2JM9EYZ"
+        },
+        {
+            "filename": "046-garlands.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/046-garlands.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 28324,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icons-2JM9EYZ"
+        },
+        {
+            "filename": "026-magician.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/026-magician.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 35981,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icons-2JM9EYZ"
+        },
+        {
+            "filename": "people-partying-at-a-concert-e1630316489959.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/people-partying-at-a-concert-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 64646,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3Z7W29G"
+        },
+        {
+            "filename": "birthday-girl-and-her-colleagues-enjoying-the-office-party-e1630317131709.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/birthday-girl-and-her-colleagues-enjoying-the-office-party-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 293068,
+            "dimensions": [
+                1800,
+                1201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NKBMG38"
+        },
+        {
+            "filename": "female-performer-singing-during-music-event-e1630317184676.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/female-performer-singing-during-music-event-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 164403,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X5UYMJ9"
+        },
+        {
+            "filename": "carousel-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/carousel-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 14982,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VVLG4M3"
+        },
+        {
+            "filename": "lancaster-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/lancaster-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 19017,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VVLG4M3"
+        },
+        {
+            "filename": "mark-focus-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/mark-focus-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 12869,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VVLG4M3"
+        },
+        {
+            "filename": "mary-jane-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/mary-jane-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 21512,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VVLG4M3"
+        },
+        {
+            "filename": "wisconsin-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/wisconsin-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 17867,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VVLG4M3"
+        },
+        {
+            "filename": "three-angles-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/three-angles-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 9323,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VVLG4M3"
+        },
+        {
+            "filename": "xoca-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/xoca-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 13689,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VVLG4M3"
+        },
+        {
+            "filename": "smiling-happy-successful-businessman-e1629774005703.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/smiling-happy-successful-businessman-e1629774005703-800x1060.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 232846,
+            "dimensions": [
+                1030,
+                1365
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QF82KG4"
+        },
+        {
+            "filename": "pretty-woman-with-smartphone-e1629775649991.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/pretty-woman-with-smartphone-e1629775649991-800x1061.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 190552,
+            "dimensions": [
+                1180,
+                1565
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LX36QPK"
+        },
+        {
+            "filename": "portrait-of-smiling-P9L9AN3-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/portrait-of-smiling-P9L9AN3-2-800x1060.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 324616,
+            "dimensions": [
+                1030,
+                1365
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9L9AN3"
+        },
+        {
+            "filename": "bride-and-groom-getting-married-with-a-confetti-storm-wedding-day-celebration-of-life-and-love--e1630317714753.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/bride-and-groom-getting-married-with-a-confetti-storm-wedding-day-celebration-of-life-and-love--800x552.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 312282,
+            "dimensions": [
+                1650,
+                1139
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JF35ZY5"
+        },
+        {
+            "filename": "cheerful-smiling-man-bodybuilder-standing-in-a-gym-e1630317735368.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/cheerful-smiling-man-bodybuilder-standing-in-a-gym-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 185257,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SAHWE6T"
+        },
+        {
+            "filename": "charming-brown-eyed-woman-with-smile-looks-into-camera-and-holds-cup-on-background-of-kitchen-e1630317766474.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/charming-brown-eyed-woman-with-smile-looks-into-camera-and-holds-cup-on-background-of-kitchen-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 198318,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4Z9DQ96"
+        },
+        {
+            "filename": "portrait-of-adult-bald-smiling-attractive-man-forty-years-with-beard-in-blue-shirt-businessman-e1630317787475.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/portrait-of-adult-bald-smiling-attractive-man-forty-years-with-beard-in-blue-shirt-businessman-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 219259,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A27VKDL"
+        },
+        {
+            "filename": "closeup-silhouette-of-drone-flying-for-taking-video-of-concert-crowd-e1630317811497.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/closeup-silhouette-of-drone-flying-for-taking-video-of-concert-crowd-800x562.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 120633,
+            "dimensions": [
+                1920,
+                1348
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RE7325X"
+        },
+        {
+            "filename": "people-partying-at-a-concert-1-e1630317841777.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/people-partying-at-a-concert-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 96306,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AT5KBUQ"
+        },
+        {
+            "filename": "dance-club-e1630317860766.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/dance-club-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 196829,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6UNY7T"
+        },
+        {
+            "filename": "group-of-people-partying-among-confetti-e1630317893104.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/group-of-people-partying-among-confetti-e1629951596222-800x520.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 327556,
+            "dimensions": [
+                1800,
+                1170
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HT6PCTC"
+        },
+        {
+            "filename": "music-festival-e1630317912577.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/music-festival-800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 203134,
+            "dimensions": [
+                1920,
+                1275
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MNNZ89Y"
+        },
+        {
+            "filename": "portrait-of-smiling-P9L9AN3-2-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/portrait-of-smiling-P9L9AN3-2-1-800x1060.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 324616,
+            "dimensions": [
+                1030,
+                1365
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9L9AN3"
+        },
+        {
+            "filename": "music-festival-1-e1630317944394.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/music-festival-1-e1629950894205-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 300374,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JPGBFMK"
+        },
+        {
+            "filename": "ultra-music-festival-miami-e1630317967647.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/ultra-music-festival-miami-e1629951219945-800x520.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 318508,
+            "dimensions": [
+                1920,
+                1248
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XNF75XR"
+        },
+        {
+            "filename": "girls-birtday-party.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/girls-birtday-party-800x1183.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 315760,
+            "dimensions": [
+                1298,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YJ8W9SZ"
+        },
+        {
+            "filename": "young-couple-in-a-wedding-ceremony-at-the-beach-1-e1630318349114.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/young-couple-in-a-wedding-ceremony-at-the-beach-1-e1629951770292-800x520.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 226612,
+            "dimensions": [
+                1920,
+                1248
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-53HX94B"
+        },
+        {
+            "filename": "evenizer-party.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/evenizer-party-800x1183.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 115977,
+            "dimensions": [
+                1298,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L7X9HGY"
+        },
+        {
+            "filename": "people-partying-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/people-partying-3-800x1183.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 284970,
+            "dimensions": [
+                1298,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CDZEVLB"
+        },
+        {
+            "filename": "sound-engineer-in-a-live-concert-e1629957346396.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/sound-engineer-in-a-live-concert-e1629957346396-800x420.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 242928,
+            "dimensions": [
+                1920,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3Y4S3E7"
+        },
+        {
+            "filename": "elegant-smiling-woman-in-eyeglasses-on-white-background-e1629958519711.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/elegant-smiling-woman-in-eyeglasses-on-white-background-e1629958519711-800x1061.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 160806,
+            "dimensions": [
+                1225,
+                1625
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X3H2DZL"
+        },
+        {
+            "filename": "smiling-handsome-man-near-window-e1629959998640.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/smiling-handsome-man-near-window-e1629959998640-800x1060.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 130223,
+            "dimensions": [
+                1030,
+                1365
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3KZ78FB"
+        },
+        {
+            "filename": "anna-marie-S2DVGUT.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/anna-marie-S2DVGUT-800x1060.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 245501,
+            "dimensions": [
+                1030,
+                1365
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S2DVGUT"
+        },
+        {
+            "filename": "concert-music-festival-party-time-e1630318814394.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/concert-music-festival-party-time-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 314586,
+            "dimensions": [
+                1920,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3J63C26"
+        },
+        {
+            "filename": "coworkers-laughing-during-a-birthday-party-e1630318849699.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/coworkers-laughing-during-a-birthday-party-800x521.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 253383,
+            "dimensions": [
+                1920,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PF2PCA6"
+        },
+        {
+            "filename": "party-young-people-group-dancing-in-night-club-e1630318883825.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/party-young-people-group-dancing-in-night-club-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 243448,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BBR3YL5"
+        },
+        {
+            "filename": "blond-girl-in-vr-goggle-touching-virtual-display-during-cybersports-video-game-e1630318908957.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/blond-girl-in-vr-goggle-touching-virtual-display-during-cybersports-video-game-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 197157,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CJEQBTA"
+        },
+        {
+            "filename": "a-crowd-of-people-in-silhouette-raises-their-hands-against-colorful-neon-light-on-party-background-e1630318926463.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/a-crowd-of-people-in-silhouette-raises-their-hands-against-colorful-neon-light-on-party-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 132767,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P86XYBZ"
+        },
+        {
+            "filename": "people-partying-in-nightclub-e1630318951254.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/people-partying-in-nightclub-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 195718,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCFBAAP"
+        },
+        {
+            "filename": "Evenizer-logo-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/Evenizer-logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3858,
+            "dimensions": [
+                366,
+                88
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-PVD8F3"
+        },
+        {
+            "filename": "people-partying-confetti-cannons-nightlife-music-concert--e1630318982998.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/people-partying-confetti-cannons-nightlife-music-concert--800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 324313,
+            "dimensions": [
+                1920,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9M87Z5X"
+        },
+        {
+            "filename": "rock-concert-e1630319002440.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/evenizer\/wp-content\/uploads\/sites\/146\/2021\/08\/rock-concert-800x517.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 306438,
+            "dimensions": [
+                1920,
+                1240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHRV7DA"
+        }
+    ]
+}
